@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nKharisma, SeNiah McField.
 - 👀 I’m interested in all that coding has to offer...and video games :D!
-- 🌱 I’m currently learning JavaScript and React.
+- 🌱 I’m currently learning C++ and gameplay programming.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: this profile, @seniahwalker or LinkedIn
 
